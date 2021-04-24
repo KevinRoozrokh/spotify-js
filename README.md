@@ -21,7 +21,7 @@ v1.00
 Created spotify front end to match current spotify version.
 
 v1.01
-Addded user authentication using Spotify API and Auth0.
+Added user authentication using Spotify API and Auth0.
 
 v1.02
 Added playlist pull
