@@ -2,7 +2,6 @@ Spotify-ReactJS-Challenge v1.02 -
  React JS buildout of Spotify using Spotify API for authentication. Hosting and backend provided by Google Firebase.
 
 App is live at: https: https://spotify-js-2c6dd.web.app/
-User authentication is fully functional. Give it a try! Login was created using Spotify API. This app does not store any information.
 
 Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
 
