@@ -1,4 +1,4 @@
-Spotify-ReactJS-Challenge v1.03 - React JS buildout of Spotify using Spotify API. Facebook for developers API for Facebook login. This app does not store any information. Google authentication for Google login. Hosted by Google Firebase.
+Spotify-ReactJS-Challenge v1.03 - React JS buildout of Spotify using Spotify API. Facebook for developers API for Facebook login. Google authentication for Google login. Hosted by Google Firebase.
 
 App is live at: https: https://spotify-js-2c6dd.web.app/
 
