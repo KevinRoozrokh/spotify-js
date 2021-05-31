@@ -1,19 +1,24 @@
 Spotify-ReactJS-Challenge v1.03 - React JS buildout of Spotify using Spotify API. Facebook for developers API for Facebook login. Google authentication for Google login. Hosted by Google Firebase.
 
-App is live at: https: https://spotify-js-2c6dd.web.app/
+---
+
+Kevin's Spotify React App is live at: https://spotify-js-2c6dd.web.app/
 
 Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
 
-Github repository: https://github.com/KevinRoozrokh
-
-Blog: https://kevinroozrokh.com/
-
-LinkedIn: https://www.linkedin.com/in/kevin-roozrokh/
-
 Email: KevRooz@Outlook.com
 
+---
+[![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh)
+[![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)
+[![Twitter](https://img.shields.io/badge/-Twitter-teal?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kevinkayvan)
 
-Version notes//
+---
+
+**Version notes//**
 v1.00
 Created spotify front end to match current spotify version.
 
