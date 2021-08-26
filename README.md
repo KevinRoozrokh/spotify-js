@@ -26,7 +26,8 @@ Kevin's Social Media Links:
 
 ---
 
-**Version notes//**
+**Version notes** //
+
 v1.00 - 
 Created spotify front end to match current spotify version.
 
